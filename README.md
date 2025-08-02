@@ -45,7 +45,7 @@
 - **Accessibility**: WCAG compliant with proper semantic markup
 
 ### 🎪 Live Demo
-[[View Live Demo]: ]([url](https://instantlly.netlify.app/))
+[[View Live Demo]: ]([url](https://instantlly.netlify.app/)) https://instantlly.netlify.app/
 
 ---
 
