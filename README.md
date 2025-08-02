@@ -45,7 +45,7 @@
 - **Accessibility**: WCAG compliant with proper semantic markup
 
 ### 🎪 Live Demo
-[View Live Demo]([https://Oyedokun-Kehinde.github.io/instant](https://instantlly.netlify.app/))
+[View Live Demo](**[HERE]([url](https://Oyedokun-Kehinde.github.io/instant](https://instantlly.netlify.app/))**))
 
 ---
 
